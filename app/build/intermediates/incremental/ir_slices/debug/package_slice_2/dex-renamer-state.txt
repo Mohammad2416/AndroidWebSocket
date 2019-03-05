@@ -1,0 +1,4 @@
+#Tue Mar 05 13:47:55 IRST 2019
+base.0=/Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

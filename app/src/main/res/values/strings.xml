@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="tokenIsGenerated">Token Has been generated</string>
+    <string name="start_rec">Start Rec</string>
+    <string name="close_socket">Close Socket</string>
+    <string name="welcome">Hello! Please Wait til connect to Amazon server and WebSocket</string>
+    <string name="placeholder">here you can see the texts which you saying</string>
+    <string name="placeholder_trying_to_connect">trying to connect with Websocket</string>
+    <string name="show_chunks">Show chunks</string>
+    <string name="InternetConnectionHasProblem">Please Check Your Internet Connection</string>
+</resources>

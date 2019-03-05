@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-android-sdk-auth-userpools:2.11.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-auth-userpools/2.11.0/f9fbb442af969c1defc533c5c03edaacc85bf598/aws-android-sdk-auth-userpools-2.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

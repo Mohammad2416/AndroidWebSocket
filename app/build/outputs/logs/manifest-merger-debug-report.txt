@@ -1,0 +1,275 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/086ae9d6a2f7e00d61daa78a7e83adaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9792f8894293a85ea2dc9571fb54ac67/AndroidManifest.xml:2:1-11:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.11.0.aar/d306688756f1d6f6133b2f948732842e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:2:1-17:80
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:2:1-10:80
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/8d050c7e87dee0eaa01c47c8763ea5bd/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3e6c2430f623dee37a85110642c38ca5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3bff2812d02037fc1b060cec3bd2abf0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f5e6740053157ccfbf5808c8397d165b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f4ed1d327dd5d98df75ffd8187963149/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cfe8e9d871075bd225435507c8ebd6ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c3af19bb021136fe2b6a8c49abb6f11f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/35063c80fbd00c855120b8833d7f035c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/371bc75c41a27e8ffc4d3d7405cfb874/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/29be6f609c922c50767e008efca3e208/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0ec6415fa54bb96a17570b4e35cf14b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e5b21a4686b79ea434f9dee024b2480d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/da62f5fe907bc186fa4cc3a82c22c2fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/044e2bbe43f8333263e3dea987586df3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/922c625f26112363ccefcf6bb5aa3930/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/11048e373d379b395e9201c8e265acf5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0de643aada0fcd83e01961b344d78e70/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5b7167b3dca3a8d4462a20ea5ea9a38a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9b40c9ff71c1fbcf578d23d6eb1a48c8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/07127944513ff8f093529c1962799181/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/120c242854a45b77ffa84eecb2389f75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6860c60bbe42ab1a69a92a4f5bd70e5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1fd673c303623ca6fd6dbd302e8c6ffe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fb58a67dcfade94859a21ede617e755b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9ba083f859baf38115291b43c5f0505d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8483de3a875dda826dbed0dcc2fc8cd9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/026a46106418ad3bc1b714ff28aad6f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/84524ae65a955bdbdd1e5f0628f161d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.11.0.aar/1a902279f7c82d50ab474e77220fa9b3/AndroidManifest.xml:2:1-4:80
+INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.11.0.aar/d306688756f1d6f6133b2f948732842e/AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.11.0.aar/d306688756f1d6f6133b2f948732842e/AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.11.0.aar/d306688756f1d6f6133b2f948732842e/AndroidManifest.xml:7:5-78
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.11.0.aar/d306688756f1d6f6133b2f948732842e/AndroidManifest.xml:7:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:7:22-68
+application
+ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:9:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9792f8894293a85ea2dc9571fb54ac67/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9792f8894293a85ea2dc9571fb54ac67/AndroidManifest.xml:9:5-20
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:8:6-16:20
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:8:6-16:20
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:7:5-9:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:7:5-9:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0de643aada0fcd83e01961b344d78e70/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0de643aada0fcd83e01961b344d78e70/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5b7167b3dca3a8d4462a20ea5ea9a38a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5b7167b3dca3a8d4462a20ea5ea9a38a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0de643aada0fcd83e01961b344d78e70/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.mohammadmirzakhani.android.challenge.views.ListOfChunksActivity
+ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:16:9-17:52
+	android:screenOrientation
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:16:19-101
+activity#com.mohammadmirzakhani.android.challenge.views.MainActivity
+ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:screenOrientation
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:20:13-49
+	android:name
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:19:13-87
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/086ae9d6a2f7e00d61daa78a7e83adaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/086ae9d6a2f7e00d61daa78a7e83adaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9792f8894293a85ea2dc9571fb54ac67/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9792f8894293a85ea2dc9571fb54ac67/AndroidManifest.xml:5:5-7:41
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.11.0.aar/d306688756f1d6f6133b2f948732842e/AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.11.0.aar/d306688756f1d6f6133b2f948732842e/AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:17:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:17:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:10:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:10:1-69
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/8d050c7e87dee0eaa01c47c8763ea5bd/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/8d050c7e87dee0eaa01c47c8763ea5bd/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3e6c2430f623dee37a85110642c38ca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3e6c2430f623dee37a85110642c38ca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3bff2812d02037fc1b060cec3bd2abf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3bff2812d02037fc1b060cec3bd2abf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f5e6740053157ccfbf5808c8397d165b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f5e6740053157ccfbf5808c8397d165b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f4ed1d327dd5d98df75ffd8187963149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f4ed1d327dd5d98df75ffd8187963149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cfe8e9d871075bd225435507c8ebd6ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cfe8e9d871075bd225435507c8ebd6ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c3af19bb021136fe2b6a8c49abb6f11f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c3af19bb021136fe2b6a8c49abb6f11f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/35063c80fbd00c855120b8833d7f035c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/35063c80fbd00c855120b8833d7f035c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/371bc75c41a27e8ffc4d3d7405cfb874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/371bc75c41a27e8ffc4d3d7405cfb874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/29be6f609c922c50767e008efca3e208/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/29be6f609c922c50767e008efca3e208/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0ec6415fa54bb96a17570b4e35cf14b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0ec6415fa54bb96a17570b4e35cf14b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e5b21a4686b79ea434f9dee024b2480d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e5b21a4686b79ea434f9dee024b2480d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/da62f5fe907bc186fa4cc3a82c22c2fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/da62f5fe907bc186fa4cc3a82c22c2fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/044e2bbe43f8333263e3dea987586df3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/044e2bbe43f8333263e3dea987586df3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/922c625f26112363ccefcf6bb5aa3930/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/922c625f26112363ccefcf6bb5aa3930/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/11048e373d379b395e9201c8e265acf5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/11048e373d379b395e9201c8e265acf5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0de643aada0fcd83e01961b344d78e70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0de643aada0fcd83e01961b344d78e70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5b7167b3dca3a8d4462a20ea5ea9a38a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5b7167b3dca3a8d4462a20ea5ea9a38a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9b40c9ff71c1fbcf578d23d6eb1a48c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9b40c9ff71c1fbcf578d23d6eb1a48c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/07127944513ff8f093529c1962799181/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/07127944513ff8f093529c1962799181/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/120c242854a45b77ffa84eecb2389f75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/120c242854a45b77ffa84eecb2389f75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6860c60bbe42ab1a69a92a4f5bd70e5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6860c60bbe42ab1a69a92a4f5bd70e5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1fd673c303623ca6fd6dbd302e8c6ffe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1fd673c303623ca6fd6dbd302e8c6ffe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fb58a67dcfade94859a21ede617e755b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fb58a67dcfade94859a21ede617e755b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9ba083f859baf38115291b43c5f0505d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9ba083f859baf38115291b43c5f0505d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8483de3a875dda826dbed0dcc2fc8cd9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8483de3a875dda826dbed0dcc2fc8cd9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/026a46106418ad3bc1b714ff28aad6f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/026a46106418ad3bc1b714ff28aad6f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/84524ae65a955bdbdd1e5f0628f161d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/84524ae65a955bdbdd1e5f0628f161d8/AndroidManifest.xml:20:5-44
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.11.0.aar/1a902279f7c82d50ab474e77220fa9b3/AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.11.0.aar/1a902279f7c82d50ab474e77220fa9b3/AndroidManifest.xml:4:1-69
+INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+		ADDED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/RightelVAS2/Documents/Lab/android-coding-challenge-Mohammad2416/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:6:22-73
+activity#com.amazonaws.mobile.auth.userpools.ForceChangePasswordActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:9:10-269
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:9:231-267
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:9:91-151
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:9:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:9:152-230
+activity#com.amazonaws.mobile.auth.userpools.ForgotPasswordActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:10:10-258
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:10:220-256
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:10:91-145
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:10:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:10:146-219
+activity#com.amazonaws.mobile.auth.userpools.SignUpActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:11:10-242
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:11:204-240
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:11:91-137
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:11:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:11:138-203
+activity#com.amazonaws.mobile.auth.userpools.MFAActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:13:10-235
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:13:197-233
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:13:91-133
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:13:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:13:134-196
+activity#com.amazonaws.mobile.auth.userpools.SignUpConfirmActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:15:10-257
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:15:219-255
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:15:91-145
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:15:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.11.0.aar/4a8e6dbd3a7db2da2bd3e77e6e1b0e65/AndroidManifest.xml:15:146-218
+activity#com.amazonaws.mobile.auth.ui.SignInActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:8:9-234
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:8:196-232
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:8:90-136
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:8:19-89
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.11.0] /Users/RightelVAS2/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.11.0.aar/a99c0b0245e26d59b9bfd833a01ef7e8/AndroidManifest.xml:8:137-195
